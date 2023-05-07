@@ -2,4 +2,4 @@
 Created with CodeSandbox
 
 
-Link https://codesandbox.io/p/github/myapos/react-js-drag-and-drop
+Link: https://codesandbox.io/p/github/myapos/react-js-drag-and-drop
