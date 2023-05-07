@@ -37,7 +37,7 @@ The drag and drop functionality is implemented using the useDrag and useDrop hoo
 
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/myapos/react-js-drag-and-drop/blob/master/LICENSE.md) file for details.
 
 
 Link: https://codesandbox.io/p/github/myapos/react-js-drag-and-drop
